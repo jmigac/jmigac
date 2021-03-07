@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Jurica Migač](http://juricamigac.com/projekti/git_profil/git.jpg)](https://www.juricamigac.com)
+[![Jurica Migač](https://user-images.githubusercontent.com/29428226/110252772-4af7d300-7f87-11eb-829e-3d37ecf1067d.jpg)](https://juricamigac.com)
 
 Hi. I’m Jurica. 🔭 I’m currently working on my master thesis "Developing GraphQL Web Services in Spring and Adobe Experience Manager" on my github profile [@jmigac](https://github.com/jmigac) for FOI organization. 
 <!--
