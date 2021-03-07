@@ -1,5 +1,7 @@
 ### Hi there 👋
+[![Jurica Migač](http://juricamigac.com/projekti/git_profil/git.jpg)](https://www.juricamigac.com)
 
+Hi. I’m Jurica. 🔭 I’m currently working on my master thesis "Developing GraphQL Web Services in Spring and Adobe Experience Manager" on my github profile [@jmigac](https://github.com/jmigac) for FOI organization. 
 <!--
 **jmigac/jmigac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
