@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jurica Migač
 
-🎓 MSc in Information and Software Engineering | 💻 Java Web Developer | 🏢 AEM Developer @ IBM iX
+🎓 MSc in Information and Software Engineering | 💻 Java Web Developer | 🏢 Subject Matter Expert Edge Delivery Services @ Cyber64
 
 ---
 
@@ -21,7 +21,7 @@ Currently, I work as an AEM Developer at IBM iX, contributing to enterprise-leve
 ## 📫 Let's Connect
 
 - 🌐 [juricamigac.from.hr](https://juricamigac.from.hr)
-- 📧 jurica.migac@ibmix.hr
+- 📧 jurica.migac@cyber64.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/juricamigac)
 - 📝 [DEV Profile](https://dev.to/jmigac)
 
